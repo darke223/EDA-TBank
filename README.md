@@ -16,4 +16,4 @@
 
 - `Avia_convers.ipynb` - EDA  
 - `Avia_convers.pdf` - краткая аналитическая записка
-- `dano_dataset_avia_hashed_corrected_s.xlsx` - Датасет действий пользователей
+- `dano_dataset_avia_hashed_corrected_s.xlsx` - Датасет действий пользователей в сервисе покупки Авиабилетов
