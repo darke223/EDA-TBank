@@ -14,5 +14,5 @@
 
 ## Структура проекта
 
-- `Avia-convers.ipynb` — EDA  
-- `presentation.pdf` — краткая аналитическая записка  
+- `Avia_convers.ipynb` — EDA  
+- `Avia_convers.pdf` — краткая аналитическая записка  
